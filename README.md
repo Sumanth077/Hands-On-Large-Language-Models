@@ -8,8 +8,6 @@ Welcome! In this repository you will find the code for all examples throughout t
 
 <p align="center"><b><i>"The Illustrated LLM Book"</i></b></p>
 
-<a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961"><img src="images/book_cover.png" width="50%" height="50%"></a>
-
 <br>
 
 | Chapter  | Notebook  |
